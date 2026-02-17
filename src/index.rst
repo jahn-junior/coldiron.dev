@@ -9,11 +9,11 @@ coldiron.dev
 
 .. container:: buttons
 
-    :ref:`Blog <blog-index>`
-    :ref:`Projects <projects>`
-    :ref:`Resume <resume>`
-    :ref:`About <about>`
-    :ref:`Contact <contact>`
+    :doc:`Blog <blog/index>`
+    :doc:`Projects <projects>`
+    :doc:`Resume <resume>`
+    :doc:`About <about>`
+    :doc:`Contact <contact>`
 
 .. toctree::
     :hidden:
