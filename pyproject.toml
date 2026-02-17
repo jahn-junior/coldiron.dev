@@ -1,0 +1,20 @@
+[project]
+name = "coldiron.dev"
+version = "0"
+requires-python = ">=3.11"
+dependencies = [
+  "sphinx",
+  "shibuya",
+]
+
+[dependency-groups]
+lint = [
+  # will include tools for linting the docs
+]
+dev = [
+  "pyright",
+  "ruff",
+]
+
+[tool.ruff]
+line-length = 88
