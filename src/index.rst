@@ -4,8 +4,8 @@
 
     <link rel="stylesheet" href="_static/homepage.css" type="text/css">
 
-``coldiron.dev``
-================
+coldiron.dev
+============
 
 .. container:: buttons
 

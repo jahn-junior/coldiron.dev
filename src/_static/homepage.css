@@ -9,9 +9,16 @@
   align-items: center;
   min-height: 80vh;
   text-align: center;
-  animation: fadeInAnimation ease 2s;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards;
+  animation: fadeInAnimation 2s ease forwards;
+}
+
+.yue section:first-of-type h1 {
+  font-size: min(15vw, 4.2rem);
+}
+
+.sy-content .buttons p {
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .sy-foot {
