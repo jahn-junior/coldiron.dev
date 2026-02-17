@@ -16,6 +16,10 @@
   font-size: min(15vw, 4.2rem);
 }
 
+.yue p.lead {
+  margin-top:0px
+}
+
 .sy-content .buttons p {
   flex-wrap: wrap;
   justify-content: center;

@@ -4,8 +4,14 @@
 
     <link rel="stylesheet" href="_static/homepage.css" type="text/css">
 
-coldiron.dev
-============
+JJ Coldiron
+===========
+
+.. rst-class:: lead
+
+    Technical author at Canonical.
+
+    Lover of well-crafted tools and text.
 
 .. container:: buttons
 
