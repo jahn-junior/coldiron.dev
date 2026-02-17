@@ -3,3 +3,8 @@
     color: var(--accent-9);
     font-weight: bold;
 }
+
+/* Hide the default Shibuya footer. */
+.sy-foot {
+  display: none !important; 
+}
