@@ -1,0 +1,40 @@
+baseURL = 'http://coldiron.dev/'
+languageCode = 'en-us'
+title = 'coldiron.dev'
+theme = "re-terminal"
+pagination.pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    title = "coldiron.dev"
+    subtitle = "Writing about thoughtful tools and text."
+
+    copyright = "@ 2026 JJ Coldiron"
+    menuMore = "Show more"
+    readMore = "Read more"
+
+    [languages.en.params.logo]
+      logoText = "coldiron.dev"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
