@@ -1,4 +1,4 @@
-baseURL = 'http://coldiron.dev/'
+baseURL = 'https://coldiron.dev/'
 languageCode = 'en-us'
 title = 'coldiron.dev'
 theme = "re-terminal"
