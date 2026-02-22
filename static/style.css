@@ -1,6 +1,7 @@
   :root {
-    --accent: #005f87 !important;
     --background: #eeeeee;
-    --accent-contrast-color: #eeeeee;
     --color: black;
+    --accent: #005f87 !important;
+    --accent-contrast-color: #eeeeee;
+    --border-color: #005f87;
   }
