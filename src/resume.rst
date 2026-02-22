@@ -1,3 +1,0 @@
-:layout: simple
-
-.. _resume:

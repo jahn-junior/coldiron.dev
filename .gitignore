@@ -1,2 +1,2 @@
-/_build/
-.*_cache
+/public/
+/.hugo_build.lock
