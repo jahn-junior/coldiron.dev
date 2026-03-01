@@ -14,7 +14,7 @@ pagination.pagerSize = 5
     title = "coldiron.dev"
     subtitle = "Writing about thoughtful tools and text."
 
-    copyright = "@ 2026 JJ Coldiron"
+    copyright = "This page is licensed under CC-BY-4.0"
     menuMore = "Show more"
     readMore = "Read more"
 
