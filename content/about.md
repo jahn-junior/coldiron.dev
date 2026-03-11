@@ -2,8 +2,6 @@
 title = 'About'
 +++
 
-# JJ Coldiron
-
 Technical author @ [Canonical](https://canonical.com). Based out of Puyallup,
 Washington, US.
 
