@@ -1,5 +1,5 @@
 +++
-title = 'Contact'
+title = 'Get in touch'
 +++
 
 If you have a business inquiry or want to discuss my writing, get in touch with me via:

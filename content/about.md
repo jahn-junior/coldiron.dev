@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'About me'
 +++
 
 Technical author @ [Canonical](https://canonical.com). Based out of Puyallup,
