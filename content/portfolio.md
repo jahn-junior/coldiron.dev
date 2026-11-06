@@ -92,5 +92,6 @@ a few release notes I've written for the software I personally maintain at Canon
 
 - [Sphinx Stack 1.6](https://documentation.ubuntu.com/sphinx-stack/latest/release-notes/1.6/)
 - [Sphinx Stack 2.0](https://documentation.ubuntu.com/sphinx-stack/latest/release-notes/2.0/)
+- [Sphinx Stack 3.0](https://documentation.ubuntu.com/sphinx-stack/latest/release-notes/3.0/)
 - [sphinx-terminal 1.0.0](https://github.com/canonical/sphinx-terminal/releases/tag/1.0.0)
 - [sphinx-terminal 1.1.0](https://github.com/canonical/sphinx-terminal/releases/tag/1.1.0)

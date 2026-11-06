@@ -10,11 +10,11 @@ Experienced documentation platform engineer and author of software documentation
 Skilled at driving documentation efforts in software engineering teams. Actively
 contributing to open-source documentation tools as both a professional and hobbyist.
 
-I've spent the last year of my career writing open source documentation for users and
-developers. My professional experience is with Sphinx documentation, but I've also
+I've spent the last two years of my career writing open source documentation for users
+and developers. My professional experience is with Sphinx documentation, but I've also
 worked with Hugo and Docusaurus.
 
-I have one year of experience writing production Python code and am comfortable with
+I have two years of experience writing production Python code and am comfortable with
 Java and C#. Because of my work with static site generators, I also have basic
 proficiency with JavaScript, HTML, and CSS.
 
